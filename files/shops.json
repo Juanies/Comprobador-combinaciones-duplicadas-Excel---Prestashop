@@ -1,0 +1,14 @@
+{
+    "tiendas": [
+        {
+            "name": "[Nombre de la tienda] [Ej: Tienda1]",
+            "link": " [Link de la pagina] [Ej: https://www.tienda1.es/] ",
+            "api": " [API de la pagina]"
+        },
+        {
+            "name": "[Nombre de la tienda] [Ej: Tienda2]",
+            "link": " [Link de la pagina] [Ej: https://www.tienda2.es/] ",
+            "api": " [API de la pagina]"
+        }
+    ]
+}
