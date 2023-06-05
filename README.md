@@ -29,9 +29,9 @@ Selecciona la tienda en la que deseas comprobar las combinaciones.
 Haz clic en el botón "Analizar" para comenzar el proceso de comparación con la API de PrestaShop.
 
 El programa mostrará los resultados y proporcionará la opción de eliminar duplicados en el archivo de Excel.
-
+```diff
 - [Recuerda cambiar las columnas y los datos del JSON]
-
+```
 ## Contribución
 
 Si deseas contribuir a este proyecto, sigue los pasos a continuación:
