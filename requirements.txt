@@ -1,0 +1,6 @@
+# Bibliotecas para el proyecto de Comprobación de Combinaciones con PrestaShop
+
+pandas  # Biblioteca para el manejo y análisis de datos en formato tabular (Excel)
+requests  # Biblioteca para hacer peticiones HTTP a la API de PrestaShop
+xmltodict  # Biblioteca para convertir XML en estructuras de datos tipo diccionario
+tkinter  # Biblioteca para crear interfaces gráficas de usuario
