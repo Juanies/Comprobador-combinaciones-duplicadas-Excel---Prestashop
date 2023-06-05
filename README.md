@@ -30,8 +30,7 @@ Haz clic en el botón "Analizar" para comenzar el proceso de comparación con la
 
 El programa mostrará los resultados y proporcionará la opción de eliminar duplicados en el archivo de Excel.
 
-<span style="color:red">[Recuerda cambiar las columnas y los datos del JSON]</span>  
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
+- ![#f03c15][Recuerda cambiar las columnas y los datos del JSON]</span>   `#f03c15`
 
 ## Contribución
 
