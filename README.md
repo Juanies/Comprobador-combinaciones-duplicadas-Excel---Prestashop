@@ -48,3 +48,6 @@ Si deseas contribuir a este proyecto, sigue los pasos a continuación:
 ## Créditos
 Este proyecto ha sido desarrollado por [Juanies#6389](https://github.com/Juanies)
 
+![image](https://github.com/Juanies/Comprobador-combinaciones-duplicadas-Excel---Prestashop/assets/80675013/c895ad3f-53ff-4632-8e2e-2ebcb617a99c)
+
+
