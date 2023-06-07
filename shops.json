@@ -1,0 +1,24 @@
+{
+    "tiendas": [
+        {
+            "name": "[Nomb",
+            "link": " [Link",
+            "api": " [API de la pagina]"
+        },
+        {
+            "name": "[Nombre",
+            "link": " [Link ",
+            "api": " [API de la pagina]"
+        },
+        {
+            "name": "[2",
+            "link": " [Link ",
+            "api": " [API de la pagina]"
+        },
+        {
+            "name": "[3",
+            "link": " [Link ",
+            "api": " [API de la pagina]"
+        }
+    ]
+}
