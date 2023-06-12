@@ -5,6 +5,5 @@ requests  # Biblioteca para hacer peticiones HTTP a la API de PrestaShop
 xmltodict  # Biblioteca para convertir XML en estructuras de datos tipo diccionario
 tkinter  # Biblioteca para crear interfaces gráficas de usuario
 json # Aceptar ficheros JSON
-webbrowser # 
 datetime # Libreria el tiempo
 os # funcionalidad del sistema operativo
