@@ -1,5 +1,5 @@
 # Proyecto de Comprobación de Combinaciones con PrestaShop
-
+https://wakatime.com/badge/user/23a2ba12-aa90-4e65-bc81-adc19381561f/project/493ccce3-8370-4a48-9d28-0462c295c9a8.svg
 Este proyecto tiene como objetivo principal comprobar las combinaciones de productos utilizando un archivo de Excel como fuente de datos. Se compararán los códigos EAN13 en el archivo de Excel con la API de PrestaShop para determinar si se deben subir o no. Además, se proporcionará una interfaz gráfica para facilitar el proceso.
 
 ![Captura de pantalla 2023-06-12 124935](https://github.com/Juanies/Comprobador-combinaciones-duplicadas-Excel---Prestashop/assets/80675013/bd0a2c93-59d4-4531-8b38-4e2d0502c995)
