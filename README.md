@@ -2,7 +2,7 @@
 
 Este proyecto tiene como objetivo principal comprobar las combinaciones de productos utilizando un archivo de Excel como fuente de datos. Se compararán los códigos EAN13 en el archivo de Excel con la API de PrestaShop para determinar si se deben subir o no. Además, se proporcionará una interfaz gráfica para facilitar el proceso.
 
-![image](https://github.com/Juanies/Comprobador-combinaciones-duplicadas-Excel---Prestashop/assets/80675013/018a83d8-7aa9-4154-9c7a-884a88987c98)
+![Captura de pantalla 2023-06-12 124935](https://github.com/Juanies/Comprobador-combinaciones-duplicadas-Excel---Prestashop/assets/80675013/bd0a2c93-59d4-4531-8b38-4e2d0502c995)
 
 ## Requisitos previos
 
