@@ -4,7 +4,6 @@ import requests
 import xmltodict
 import json
 import webbrowser
-from tkhtmlview import HTMLLabel
 from datetime import datetime
 
 
