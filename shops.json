@@ -1,24 +1,19 @@
 {
     "tiendas": [
         {
-            "name": "[Nomb",
-            "link": " [Link",
-            "api": " [API de la pagina]"
+            "name": "Tienda1",
+            "link": "Link1",
+            "api": "Api1"
         },
         {
-            "name": "[Nombre",
-            "link": " [Link ",
-            "api": " [API de la pagina]"
-        },
+            "name": "Tienda2",
+            "link": "Link2",
+            "api": "Api2"
+        },        
         {
-            "name": "[2",
-            "link": " [Link ",
-            "api": " [API de la pagina]"
-        },
-        {
-            "name": "[3",
-            "link": " [Link ",
-            "api": " [API de la pagina]"
+            "name": "Tienda3",
+            "link": "Link3",
+            "api": "Api3"
         }
     ]
 }
