@@ -402,12 +402,6 @@ table.column("#3", anchor=CENTER, stretch=YES, width=100)
 table.heading('#4', text='Cód Barras 2')
 table.column("#4", anchor=CENTER, stretch=YES, width=100)
 
-
-# Colocamos la marca de agua con el Nombre del creador
-#html_label=HTMLLabel(win, html='<a style="font-size:.2em;" href="http://www.google.com">Hecho por Juanies</a>',  font=('Times', 2)).grid(row=2,  column=1,  padx=0,  pady=20)
-#link1 = Label(win, text="Google Hyperlink", fg="blue", cursor="hand2").grid(row=2,  column=1,  padx=0,  pady=20)
-#link1.bind("<Button-1>", lambda e: callback("http://www.google.com"))
-
 def callback():
     webbrowser.open_new("https://github.com/Juanies")
 
